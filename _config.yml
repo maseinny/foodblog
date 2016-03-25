@@ -1,4 +1,13 @@
-name: FoodBlog
-description: Taking you down to Chinatown, one bite at a time
-paginate: 10
-baseurl: ''
+#################
+# Site settings #
+#################
+
+url: http://food.kevincrimi.com
+baseurl: ""
+
+title: FoodBlog
+email: kevincrimi@gmail.com
+description: "Taking you down to Chinatown, one bite at a time"
+
+google-tracking-id: "UA-35880426-4"
+
